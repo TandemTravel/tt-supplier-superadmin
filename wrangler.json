@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tt-supplier-superadmin",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c1366bc7-f91b-40a7-bd47-c9d5a5bf5b34",
+			"database_name": "available_dates"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
